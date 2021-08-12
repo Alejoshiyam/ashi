@@ -1,0 +1,2 @@
+# ashi
+Mi practica repositorio.
